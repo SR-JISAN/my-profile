@@ -1,11 +1,31 @@
 <!-- Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/SR-JISAN/my-profile/refs/heads/main/banner.svg"
-    alt="Jisan | MERN Stack Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=260&section=header&text=JISAN&fontSize=70&fontAlignY=38&desc=MERN%20Stack%20Web%20Developer&descSize=22&descAlignY=55&animation=fadeIn"
     width="100%"
   />
 </p>
+
+<!-- ===================== CREDIT CARD ===================== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Jisan+%7C+MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+Modern+Web+Applications"
+  />
+</p>
+
+<!-- ===================== SKILLS CARD ===================== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,tailwind,git" />
+</p>
+
+<!-- ===================== INFO ===================== -->
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp;
+  💻 MERN Stack Developer &nbsp;|&nbsp;
+  🚀 Open to Opportunities
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Jisan</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
