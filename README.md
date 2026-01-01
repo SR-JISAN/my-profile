@@ -1,7 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.svg" alt="Jisan MERN Developer Banner"/>
+  <img 
+    src="https://raw.githubusercontent.com/SR-JISAN/my-profile/refs/heads/main/banner.svg"
+    alt="Jisan | MERN Stack Developer"
+    width="100%"
+  />
 </p>
+
 <h1 align="center">Hi 👋, I'm Jisan</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
 
