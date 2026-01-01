@@ -86,20 +86,22 @@ Always eager to learn new technologies and improve my development skills.
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jisan123&show_icons=true&theme=react" height="165"/>
+  <!-- Total stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jisan123&show_icons=true&theme=react&hide_title=false&count_private=true&include_all_commits=true&hide_border=false" height="165"/>
   
   <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan123&layout=compact&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan123&layout=compact&theme=react&hide_border=false&langs_count=8" height="165"/>
 </p>
 
-<!-- Streak stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisan123&theme=react" />
+  <!-- Streak stats card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisan123&theme=react&hide_border=false" />
 </p>
+
 
 
 ---
