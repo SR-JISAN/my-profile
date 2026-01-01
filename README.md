@@ -5,15 +5,13 @@
     src="https://capsule-render.vercel.app/api?type=rect&height=260&section=header&text=JISAN&desc=MERN%20Stack%20Web%20Developer%20|%20React%20|%20Node%20|%20MongoDB%20|%20Express&descSize=20&fontSize=50&fontAlignY=40&color=0:1e3a8a,50:6366f1,100:22d3ee&animation=twinkling&fontColor=ffffff&textAlign=center&roundness=20&icon=react,nodejs,mongodb,express&iconColor=ffffff"
     width="100%"
   />
-</p>
-
-<p align="center">
+  <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=260&section=header&text=JISAN&desc=MERN%20Stack%20Web%20Developer%20|%20React%20|%20Node%20|%20MongoDB%20|%20Express&descSize=22&fontSize=50&fontAlignY=40&color=0:1e3a8a,50:6366f1,100:22d3ee&animation=twinkling&roundness=20&icon=react,nodejs,mongodb,express&iconColor=ffffff&fontColor=ffffff"
-    width="100%" 
-    alt="Jisan MERN Stack Developer Card"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Jisan+%7C+MERN+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+Modern+Web+Applications"
   />
 </p>
+</p>
+
 
 
 <!-- ===================== CREDIT CARD ===================== -->
