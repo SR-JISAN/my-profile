@@ -91,16 +91,12 @@ Always eager to learn new technologies and improve my development skills.
 
 <p align="center">
   <!-- Total stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jisan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jisan123&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165"/>
   
   <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan&layout=compact&theme=radical&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan123&layout=compact&theme=radical&langs_count=8" height="165"/>
 </p>
 
-<p align="center">
-  <!-- Streak stats card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisan&theme=radical" />
-</p>
 
 
 
