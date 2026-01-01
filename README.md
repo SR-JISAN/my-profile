@@ -1,11 +1,12 @@
 <!-- Banner -->
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=260&section=header&text=JISAN&fontSize=70&fontAlignY=38&desc=MERN%20Stack%20Web%20Developer&descSize=22&descAlignY=55&animation=fadeIn"
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:6366f1,100:22d3ee&height=260&section=header&text=JISAN&fontSize=60&fontAlignY=40&desc=MERN%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Node%20%7C%20MongoDB&descSize=20&descAlignY=60&animation=twinkling"
     width="100%"
   />
 </p>
+
 
 <!-- ===================== CREDIT CARD ===================== -->
 <p align="center">
