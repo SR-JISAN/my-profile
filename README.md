@@ -7,6 +7,13 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=glass&height=260&section=header&text=JISAN&desc=MERN%20Stack%20Web%20Developer%20|%20React%20|%20Node%20|%20MongoDB%20|%20Express&descSize=20&fontSize=50&fontAlignY=40&color=0:1e3a8a,50:6366f1,100:22d3ee&animation=twinkling&roundness=20&icon=react,nodejs,mongodb,express&iconColor=ffffff&fontColor=ffffff&shadow=1"
+    width="100%" 
+    alt="Jisan MERN Stack Developer Floating Card"
+  />
+</p>
 
 
 <!-- ===================== CREDIT CARD ===================== -->
