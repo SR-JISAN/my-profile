@@ -90,10 +90,11 @@ Always eager to learn new technologies and improve my development skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jisan&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jisan&show_icons=true&theme=react&hide_title=false&count_private=true&include_all_commits=true&hide_border=false" height="165"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan&layout=compact&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan&layout=compact&theme=react&hide_border=false&langs_count=8" height="165"/>
 </p>
+
 
 
 <p align="center">
