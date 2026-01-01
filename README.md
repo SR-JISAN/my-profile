@@ -1,5 +1,7 @@
 <!-- Banner -->
-
+<p align="center">
+  <img src="./banner.svg" alt="Jisan MERN Developer Banner"/>
+</p>
 <h1 align="center">Hi 👋, I'm Jisan</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
 
