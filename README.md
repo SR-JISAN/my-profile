@@ -7,13 +7,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=glass&height=260&section=header&text=JISAN&desc=MERN%20Stack%20Web%20Developer%20|%20React%20|%20Node%20|%20MongoDB%20|%20Express&descSize=20&fontSize=50&fontAlignY=40&color=0:1e3a8a,50:6366f1,100:22d3ee&animation=twinkling&roundness=20&icon=react,nodejs,mongodb,express&iconColor=ffffff&fontColor=ffffff&shadow=1"
-    width="100%" 
-    alt="Jisan MERN Stack Developer Floating Card"
-  />
-</p>
 
 
 <!-- ===================== CREDIT CARD ===================== -->
@@ -96,13 +89,18 @@ Always eager to learn new technologies and improve my development skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" height="165"/>
+  <!-- GitHub stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jisan123&show_icons=true&theme=react" height="165"/>
+  
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan123&layout=compact&theme=react" height="165"/>
 </p>
 
+<!-- Streak stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisan123&theme=react" />
 </p>
+
 
 ---
 
